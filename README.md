@@ -1,4 +1,4 @@
-# Content Writing AI
+# Content Generator AI
 
 This library provides an NLP model to generate different types of content based on input keywords.
 1. Business Descriptions: This model generates business descriptions that can be used for Google Ads, Facebook Ads, website headlines, etc.
