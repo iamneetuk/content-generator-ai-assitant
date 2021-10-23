@@ -27,8 +27,8 @@ T5 model is trained on the business's NLG dataset, where the model learns the ma
 streamlit run streamlit-business-description-generator.py
 ```
 ## Examples
-![alt Sample Image](https://github.com/iamneetuk/NarutoGAN/blob/main/sample-dataset/business-description-1.png?raw=true)
-![alt Sample Image](https://github.com/iamneetuk/NarutoGAN/blob/main/sample-dataset/business-description-2.png?raw=true)
+![alt Sample Image](https://github.com/iamneetuk/content-generator-ai-assitant//blob/main/examples/business-description-1.png?raw=true)
+![alt Sample Image](https://github.com/iamneetuk/content-generator-ai-assitant//blob/main/examples/business-description-2.png?raw=true)
 
 ## Libraries used
 - Pytorch
@@ -39,4 +39,4 @@ streamlit run streamlit-business-description-generator.py
 - NumPy
 
 ## Contact
-If you have any questions or feedback, feel free to reach out to me at <kamalkant.k3@gmail.com>
+If you have any questions or feedback, feel free to reach out to me at <neetukum@usc.edu>
