@@ -4,7 +4,7 @@ This library provides an NLP model to generate different types of content based 
 1. Business Descriptions: This model generates business descriptions that can be used for Google Ads, Facebook Ads, website headlines, etc.
 2. Email Autocomplete: Coming soon.
 
-Built by [Kamal Kant](https://kama1kant.com/)
+Built by [Neetu Kumari](https://neetukumari.com/)
 
 ##  How it works
 ### Dataset
