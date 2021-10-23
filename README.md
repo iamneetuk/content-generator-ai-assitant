@@ -31,8 +31,8 @@ streamlit run streamlit-business-description-generator.py
 ![alt Sample Image](https://github.com/iamneetuk/content-generator-ai-assitant//blob/main/example/business-description-2.png?raw=true)
 
 ## Libraries used
-- Pytorch
-- Huggingface Transformers
+- PyTorch
+- Hugging Face Transformers
 - T5
 - Spacy
 - Pandas
