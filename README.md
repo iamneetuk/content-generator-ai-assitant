@@ -27,7 +27,10 @@ T5 model is trained on the business's NLG dataset, where the model learns the ma
 streamlit run streamlit-business-description-generator.py
 ```
 ## Examples
+### Business Description Generator for OpenSea | NFT marketplace
 ![alt Sample Image](https://github.com/iamneetuk/content-generator-ai-assitant//blob/main/example/business-description-1.png?raw=true)
+
+### Business Description Generator for OpenAI | AI research
 ![alt Sample Image](https://github.com/iamneetuk/content-generator-ai-assitant//blob/main/example/business-description-2.png?raw=true)
 
 ## Libraries used
